@@ -5,11 +5,11 @@ attempts = 0
 print("Угадайте число от 1 до 100!")
 
 while True:
-    guess = int(input("Ваша попытка: "))
+    guess = int(input("Ваша попытка: ")) #высвчивание количства попыток
     attempts += 1
     
     if guess == number:
-        print(f"Поздравляем! Угадали за {attempts} попыток!")
+        print(f"Поздравляем! Угадали за {attempts} попыток!!!")
         break
     elif guess < number:
         print("Больше!")
