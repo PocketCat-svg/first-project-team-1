@@ -16,3 +16,5 @@ cd first-project-team-1
 
 # Запуск (для Python)
 python random_guesing.py
+
+git remote set-url origin https://github.com/ТВОЙ_ЮЗЕРНЕЙМ/first-project-team-1.git
