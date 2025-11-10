@@ -9,7 +9,7 @@ while True:
     attempts += 1
     
     if guess == number:
-        print(f"Поздравляем! Угадали за {attempts} попыток!!!")
+        print(f"Поздравляем! Угадали за {attempts} попыток!")
         break
     elif guess < number:
         print("Больше!")
