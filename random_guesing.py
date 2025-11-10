@@ -15,4 +15,3 @@ while True:
         print("Больше!")
     else:
         print("Меньше!")
-
